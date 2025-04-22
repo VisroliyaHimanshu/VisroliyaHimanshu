@@ -107,7 +107,7 @@ English | Hindi | Gujarati
 
 ## 📫 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/himanshu-visroliya-71ba94141/))
+- [LinkedIn](https://www.linkedin.com/in/himanshu-visroliya-71ba94141)
 - [GitHub](https://github.com/himanshuvisroliya)
 
 ---
