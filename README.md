@@ -4,7 +4,6 @@
 🚀 **Senior iOS & Flutter Developer | Team Lead**  
 📍 Ahmedabad, India  
 📧 [himanshuvisroliya.hv3@gmail.com](mailto:himanshuvisroliya.hv3@gmail.com)  
-📱 +91 9408679916  
 
 ---
 
@@ -108,7 +107,7 @@ English | Hindi | Gujarati
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile) *(update this with your actual profile)*  
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/himanshu-visroliya-71ba94141/))
 - [GitHub](https://github.com/himanshuvisroliya)
 
 ---
