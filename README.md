@@ -1,6 +1,7 @@
+
 # 👋 Hi there, I'm Himanshu Visroliya
 
-🚀 **Senior iOS & Flutter Developer**  
+🚀 **Senior iOS & Flutter Developer | Team Lead**  
 📍 Ahmedabad, India  
 📧 [himanshuvisroliya.hv3@gmail.com](mailto:himanshuvisroliya.hv3@gmail.com)  
 📱 +91 9408679916  
@@ -11,7 +12,7 @@
 
 I’m a results-driven mobile developer with over **6 years of experience** in building scalable, high-performance iOS applications using **Swift**, **Objective-C**, and **Flutter (Dart)**.
 
-With strong foundations in MVC/MVVM architecture, third-party integrations, and backend services like Firebase, I’ve led and contributed to a wide variety of applications across industries — from ride-sharing to e-commerce, healthcare, education, and music gear trading.
+With strong foundations in MVC/MVVM architecture, third-party integrations, and backend services like Firebase, I’ve led and contributed to a wide variety of applications across industries — from ride-sharing to e-commerce, education, healthcare, and social platforms.
 
 ---
 
@@ -20,7 +21,7 @@ With strong foundations in MVC/MVVM architecture, third-party integrations, and 
 - **Languages**: Swift, Objective-C, Dart  
 - **Mobile Frameworks**: Flutter, UIKit, SwiftUI  
 - **Architecture**: MVVM, MVC  
-- **Tools**: Xcode, Git, Firebase, Agora, Twilio, Stripe SDK, Google Maps  
+- **Tools**: Xcode, Git, Firebase, Agora, Twilio, Stripe SDK, Google Maps, WebSocket  
 - **Soft Skills**: Team Leadership, Time Management, Mentorship  
 
 ---
@@ -28,34 +29,59 @@ With strong foundations in MVC/MVVM architecture, third-party integrations, and 
 ## 🚀 Featured Projects
 
 ### 📱 [RideWay](https://apps.apple.com/in/app/rideway-book-ride-delivery/id6470281506)
-Taxi booking platform with dual Swift-based apps (driver and customer), featuring real-time ride updates and Firebase backend.
+A Swift-based ride-booking platform with two apps (Customer & Driver).  
+- Integrated **Google Maps APIs** for directions  
+- Real-time tracking using **WebSocket**  
+- Smooth booking and tracking UX
 
 ### 💇 [BookMine](https://apps.apple.com/in/app/bookmine/id1660029280)
-Salon services booking app with Stripe SDK integration for seamless payments.
+Salon service management app built in **Swift** with two roles:  
+- **User App** for booking appointments and payments  
+- **Business App** for handling schedules and clients  
+- Integrated **Stripe SDK** for seamless transactions
 
 ### 🎸 [LoveXGear](https://apps.apple.com/mk/app/love-x-gear/id6463846362)
-A matchmaking-based marketplace for music gear lovers. Discover, exchange, and connect.
+A dating-style app for music instruments, developed in Swift.  
+- Helps users discover and exchange gear  
+- Unique swipe-based matchmaking experience
 
 ### 📚 [&Theory](https://apps.apple.com/be/app/and-theory/id6471235374)
-A school content delivery app to enhance student-teacher engagement.
+An **education-focused app** built in Swift for student-teacher interaction.  
+- Supports document sharing, activities, learning content  
+- In-app purchases handled securely with **Stripe SDK**
 
 ### 👪 [Airluum](https://apps.apple.com/in/app/airluum-family-photo-sharing/id1618232095)
-Family tree and communication platform built in Swift — share memories, stay connected.
+Family tree and photo-sharing app developed in **Swift**.  
+- Users can post and share within their private family circle  
+- Focused on **privacy**, simplicity, and visual storytelling
 
 ### 🛒 [Cellula](https://apps.apple.com/in/app/cellula-healthy-lifestyle-app/id1538554252)
-All-in-one lifestyle app covering e-commerce, medical services, hyperlocal delivery, and more.
+An **all-in-one Swift-powered lifestyle app**.  
+- E-commerce, healthcare, food delivery, event booking — all in one place  
+- Simplifies daily life through one unified platform
 
 ### 📦 [SuperDia](https://apps.apple.com/in/app/superdia/id6501978483)
-Swift-based ride & parcel delivery app with dual apps for drivers and customers.
-
-### 🧘 [Dear Friends]
-Meditation app with in-app purchases, guided sessions, and serene media content.
+Swift-based **ride-sharing and parcel service** app with two sides:  
+- Customer App and Driver App  
+- Supports secure booking and real-time parcel tracking
 
 ### 🌍 [Interstride](https://apps.apple.com/in/app/interstride/id1254437834)
-Career platform for international students featuring job listings, visa guidance, and mentorship tools.
+A **job search and networking platform** built in Swift.  
+- Designed for international students  
+- Connect with colleges, companies, and alumni for career growth  
+- In-app chat and mentorship features
 
-### ✅ [Levelup](https://apps.apple.com/in/app/level-up-smash-your-goals/id6503128127)
-To-do list manager built in Flutter for tracking productivity with sleek UI/UX.
+### ✅ Levelup  📱 [ iOS](https://apps.apple.com/in/app/level-up-smash-your-goals/id6503128127) | 🤖 [Android](https://play.google.com/store/apps/details?id=com.app.levelupapp&pcampaignid=web_share)
+A sleek **to-do list manager** developed in **Flutter**, available on both Android and iOS.  
+- Helps users organize and prioritize tasks with ease  
+- Intuitive UI with smooth UX for task creation, editing, and tracking  
+- Includes **in-app purchases** to unlock premium productivity features
+
+### 🧒 [Ummah Kids](https://apps.apple.com/in/app/ummah-kids/id6478484125)
+A **video content app for Muslim kids** to learn about religion in a fun and engaging way.  
+- Developed in **Swift**  
+- Features subscription-based **in-app purchases**  
+- Includes educational videos, prayers, and learning modules tailored for children
 
 ---
 
@@ -82,8 +108,7 @@ English | Hindi | Gujarati
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile) *(update this with your actual profile)*
-- [Twitter](https://twitter.com/yourhandle) *(optional)*
+- [LinkedIn](https://www.linkedin.com/in/your-profile) *(update this with your actual profile)*  
 - [GitHub](https://github.com/himanshuvisroliya)
 
 ---
