@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Himanshu Visroliya
 
-🚀 **Senior iOS & Flutter Developer | Team Lead**  
+🚀 **Senior iOS & Flutter Developer**  
 📍 Ahmedabad, India  
 📧 [himanshuvisroliya.hv3@gmail.com](mailto:himanshuvisroliya.hv3@gmail.com)  
 
