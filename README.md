@@ -4,7 +4,6 @@
 🚀 **Senior iOS & Flutter Developer**  
 📍 Ahmedabad, India  
 📧 [himanshuvisroliya.hv3@gmail.com](mailto:himanshuvisroliya.hv3@gmail.com)
-📄 [Resume]https://drive.google.com/file/d/1EV53RNBUzSpA3RRRmLV8XdmkRYgBS6wE/view?usp=sharing 
 
 ---
 
@@ -13,6 +12,8 @@
 I’m a results-driven mobile developer with over **6 years of experience** in building scalable, high-performance iOS applications using **Swift**, **Objective-C**, and **Flutter (Dart)**.
 
 With strong foundations in MVC/MVVM architecture, third-party integrations, and backend services like Firebase, I’ve led and contributed to a wide variety of applications across industries — from ride-sharing to e-commerce, education, healthcare, and social platforms.
+
+📄 [Resume](https://drive.google.com/file/d/1EV53RNBUzSpA3RRRmLV8XdmkRYgBS6wE/view?usp=sharing)
 
 ---
 
