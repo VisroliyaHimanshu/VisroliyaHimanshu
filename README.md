@@ -88,7 +88,7 @@ A **video content app for Muslim kids** to learn about religion in a fun and eng
 - Includes educational videos, prayers, and learning modules tailored for children
 
 
-### Made With [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ###
+### Made With ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ###
 
 ### ✅ Levelup  📱 [ iOS](https://apps.apple.com/in/app/level-up-smash-your-goals/id6503128127) | 🤖 [Android](https://play.google.com/store/apps/details?id=com.app.levelupapp&pcampaignid=web_share)
 A sleek **to-do list manager** developed in **Flutter**, available on both Android and iOS.  
