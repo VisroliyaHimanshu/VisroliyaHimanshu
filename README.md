@@ -29,7 +29,7 @@ With strong foundations in MVC/MVVM architecture, third-party integrations, and 
 
 ## 🚀 Featured Projects
 
-### ![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white) Projects ###
+### Made With [![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)](https://camo.githubusercontent.com/23a4436b7a796838b682e61414bc7e99aaa6a6302b9df72e234e4fd9a3bb49df/68747470733a2f2f7777772e73776966742e6f72672f6173736574732f696d616765732f73776966742e737667) ###
 
 ### 💬 [ChatPolish](https://apps.apple.com/in/app/chatpolish/id6740427705)
 A modern **AI-powered chat application** developed in **Swift**, offering smart, human-like conversations in real time.  
