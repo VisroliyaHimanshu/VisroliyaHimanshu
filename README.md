@@ -81,17 +81,20 @@ A **job search and networking platform** built in Swift.
 - Connect with colleges, companies, and alumni for career growth  
 - In-app chat and mentorship features
 
-### ✅ Levelup  📱 [ iOS](https://apps.apple.com/in/app/level-up-smash-your-goals/id6503128127) | 🤖 [Android](https://play.google.com/store/apps/details?id=com.app.levelupapp&pcampaignid=web_share)
-A sleek **to-do list manager** developed in **Flutter**, available on both Android and iOS.  
-- Helps users organize and prioritize tasks with ease  
-- Intuitive UI with smooth UX for task creation, editing, and tracking  
-- Includes **in-app purchases** to unlock premium productivity features
-
 ### 🧒 [Ummah Kids](https://apps.apple.com/in/app/ummah-kids/id6478484125)
 A **video content app for Muslim kids** to learn about religion in a fun and engaging way.  
 - Developed in **Swift**  
 - Features subscription-based **in-app purchases**  
 - Includes educational videos, prayers, and learning modules tailored for children
+
+
+### Made With [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ###
+
+### ✅ Levelup  📱 [ iOS](https://apps.apple.com/in/app/level-up-smash-your-goals/id6503128127) | 🤖 [Android](https://play.google.com/store/apps/details?id=com.app.levelupapp&pcampaignid=web_share)
+A sleek **to-do list manager** developed in **Flutter**, available on both Android and iOS.  
+- Helps users organize and prioritize tasks with ease  
+- Intuitive UI with smooth UX for task creation, editing, and tracking  
+- Includes **in-app purchases** to unlock premium productivity features
 
 ---
 
