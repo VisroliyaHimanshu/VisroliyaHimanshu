@@ -29,6 +29,13 @@ With strong foundations in MVC/MVVM architecture, third-party integrations, and 
 
 ## 🚀 Featured Projects
 
+### 💬 [ChatPolish](https://apps.apple.com/in/app/chatpolish/id6740427705)
+A modern **AI-powered chat application** developed in **Swift**, offering smart, human-like conversations in real time.  
+- 🔗 Integrated with **OpenAI APIs** to power intelligent and context-aware chat experiences  
+- 💰 Monetized using **Google Ads** for revenue generation and **In-App Purchases** for premium features  
+- 🧠 Offers natural language processing capabilities with a clean, intuitive UI  
+- ⚙️ Built for performance, privacy, and user engagement on iOS
+
 ### 📱 [RideWay](https://apps.apple.com/in/app/rideway-book-ride-delivery/id6470281506)
 A Swift-based ride-booking platform with two apps (Customer & Driver).  
 - Integrated **Google Maps APIs** for directions  
