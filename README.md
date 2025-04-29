@@ -96,6 +96,12 @@ A sleek **to-do list manager** developed in **Flutter**, available on both Andro
 - Intuitive UI with smooth UX for task creation, editing, and tracking  
 - Includes **in-app purchases** to unlock premium productivity features
 
+### 🎉 [Ralu](https://apps.apple.com/in/app/ralu/id6463623190) 📱 | [Android](https://play.google.com/store/apps/details?id=com.app.ralu&pcampaignid=web_share)  
+A **discount discovery app** for users in Panama.  
+- Promotions across **restaurants, entertainment, beauty, tourism, shopping, and events**  
+- Exclusive member-only deals  
+- Built in Flutter with smooth navigation and **location-based promotions**
+
 ---
 
 ## 📈 Career Snapshot
