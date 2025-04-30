@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a results-driven mobile developer with over **6 years of experience** in building scalable, high-performance iOS applications using **Swift**, **Objective-C**, and **Flutter (Dart)**.
+I’m a results-driven mobile developer with over **6 years of experience** in building scalable, high-performance iOS applications using **Swift**, **SwiftUI**, **Objective-C**, and **Flutter (Dart)**.
 
 With strong foundations in MVC/MVVM architecture, third-party integrations, and backend services like Firebase, I’ve led and contributed to a wide variety of applications across industries — from ride-sharing to e-commerce, education, healthcare, and social platforms.
 
