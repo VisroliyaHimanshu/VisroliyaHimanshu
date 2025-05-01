@@ -13,7 +13,7 @@ I’m a results-driven mobile developer with over **6 years of experience** in b
 
 With strong foundations in MVC/MVVM architecture, third-party integrations, and backend services like Firebase, I’ve led and contributed to a wide variety of applications across industries — from ride-sharing to e-commerce, education, healthcare, and social platforms.
 
-📄 [Resume](https://drive.google.com/file/d/1EV53RNBUzSpA3RRRmLV8XdmkRYgBS6wE/view?usp=sharing)
+📄 [Resume](https://drive.google.com/file/d/1DSibUB5Ynapp_E5adjZtKOOGp4jpAV5q/view?usp=sharing)
 
 ---
 
