@@ -10,8 +10,6 @@
 
 Experienced mobile developer with 6+ years in building high-performance iOS apps using Swift, SwiftUI, Objective-C, and Flutter. Skilled in MVC/MVVM, third-party integrations, and Firebase, with a track record across diverse domains including ride-sharing, e-commerce, healthcare, education, and social platforms.
 
-📄 [Resume](https://drive.google.com/file/d/1DSibUB5Ynapp_E5adjZtKOOGp4jpAV5q/view?usp=sharing)
-
 ---
 
 ## 🛠️ Skills & Technologies
