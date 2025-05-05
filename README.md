@@ -3,7 +3,6 @@
 
 🚀 **Senior iOS & Flutter Developer**  
 📍 Ahmedabad, India  
-📧 [himanshuvisroliya.hv3@gmail.com](mailto:himanshuvisroliya.hv3@gmail.com)
 
 ---
 
@@ -122,12 +121,3 @@ RK University, Rajkot – 2018
 English | Hindi | Gujarati
 
 ---
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/himanshu-visroliya-71ba94141)
-- [GitHub](https://github.com/himanshuvisroliya)
-
----
-
-*“Code is not just what a computer understands. It’s what humans can build with.”*
