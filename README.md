@@ -2,7 +2,7 @@
 # 👋 Hi there, I'm Himanshu Visroliya
 
 🚀 **Senior iOS & Flutter Developer**  
-📍 Ahmedabad, India  
+📍 India  
 
 ---
 
