@@ -65,13 +65,13 @@ I’m a results-driven mobile app developer with over **6 years** of hands-on ex
 
 ### 📱 Cross-platform Projects (Flutter)
 
-#### ✅ [LevelUp](https://apps.apple.com/in/app/level-up-smash-your-goals/id6503128127) | [Android](https://play.google.com/store/apps/details?id=com.app.levelupapp) – *To-Do Productivity App*  
+#### ✅ Levelup [iOS](https://apps.apple.com/in/app/level-up-smash-your-goals/id6503128127) | [Android](https://play.google.com/store/apps/details?id=com.app.levelupapp) – *To-Do Productivity App*  
 > Flutter app for task management with intuitive UX, smooth animations, and premium upgrade options.
 
-#### 🎉 [Ralu](https://apps.apple.com/in/app/ralu/id6463623190) | [Android](https://play.google.com/store/apps/details?id=com.app.ralu) – *Discount Discovery App for Panama*  
+#### 🎉 Ralu [iOS](https://apps.apple.com/in/app/ralu/id6463623190) | [Android](https://play.google.com/store/apps/details?id=com.app.ralu) – *Discount Discovery App for Panama*  
 > Location-based promotions across food, beauty, tourism & events. Flutter app with exclusive deals and rich UI.
 
-#### 🎉 [Orbit] [Android](https://play.google.com/store/apps/details?id=com.subscription.tracker.subscriptionsapp.billing.alert.calendar.manager) – *Smart Subscription Manager*  
+#### 🎉 Orbit [Android](https://play.google.com/store/apps/details?id=com.subscription.tracker.subscriptionsapp.billing.alert.calendar.manager) – *Smart Subscription Manager*  
 > Track subscriptions, get billing alerts, and manage recurring expenses with a smooth, Flutter-powered UI.
 
 ---
