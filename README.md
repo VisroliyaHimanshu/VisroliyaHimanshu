@@ -78,9 +78,10 @@ I’m a results-driven mobile app developer with over **6 years** of hands-on ex
 
 ## 💼 Career Summary
 
-- 🔹 **Senior iOS Developer & Team Lead**, *Zestbrains Pvt Ltd* (Oct 2021 – Apr 2025)  
-- 🔹 **Junior iOS Developer**, *Siddhi Infsoft* (Feb 2019 – Sep 2021)  
-- 🔹 **iOS Intern**, *Rudraksh Webtech* (Oct 2018 – Jan 2019)
+- 🔹 **Senior Flutter Developer**, *Archcorp Architectural Engineering (Dubai - UAE)* (May 2025 – Present)  
+- 🔹 **Senior iOS Developer & Team Lead**, *Zestbrains Pvt Ltd (Ahmedabad - India)* (Oct 2021 – Apr 2025)  
+- 🔹 **Junior iOS Developer**, *Siddhi Infsoft (Ahmedabad - India)* (Feb 2019 – Sep 2021)  
+- 🔹 **iOS Intern**, *Rudraksh Webtech (Rajkot - India)* (Oct 2018 – Jan 2019)
 
 ---
 
