@@ -31,7 +31,7 @@ I’m a results-driven mobile app developer with over **6 years** of hands-on ex
 
 ## My 1st Indie Product
 
-#### 🪐 Reko [Android](https://play.google.com/store/apps/details?id=com.subscription.tracker.subscriptionsapp.billing.alert.calendar.manager) – *Smart Subscription Manager*  
+#### 🪐 Reko [Android & iOS](https://onelink.to/fgvtdu) – *Smart Subscription Manager*  
 > Track subscriptions, get billing alerts, and manage recurring expenses with a smooth, Flutter-powered UI.
 
 ---
